@@ -1,0 +1,158 @@
+{
+  "Chandigarh": {
+    "Chandigarh": [
+      {
+        "name": "Delhi Public School, Sector 40-C",
+        "address": "Sector 40-C, Chandigarh",
+        "email": "dpschd40@yahoo.com",
+        "phone": "0172-2690991",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Kabir Public School",
+        "address": "Sector 26, Chandigarh - 160 019",
+        "email": "contact@stkabir.co.in",
+        "phone": "+91-172-2791459",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Anne's Convent School",
+        "address": "Sector 32-C, Chandigarh - 160030",
+        "email": "info@sacschd.in",
+        "phone": "0172-2603278",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Sacred Heart Sr. Sec. School",
+        "address": "Sector 26, Chandigarh",
+        "email": "contactsacredheartchd@gmail.com",
+        "phone": "+91 172 279 2297",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Strawberry Fields High School",
+        "address": "Sector 26, Chandigarh, 160019",
+        "email": "contact@sfhs.in",
+        "phone": "+91 172 279 5903",
+        "streams": ["Science", "Commerce", "Humanities", "IB Diploma"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Bhavan Vidyalaya",
+        "address": "Sector 27 B, Madhya Marg, Chandigarh - 160019",
+        "email": "bvb_chd@bhavanchd.com",
+        "phone": "0172-5041620",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. John's High School",
+        "address": "Sector 26, Chandigarh 160019",
+        "email": "stjohnschandigarh@gmail.com",
+        "phone": "+91 172 279 2571",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Stepping Stones School",
+        "address": "Sector 37/D, Chandigarh",
+        "email": "stepps_chd@yahoo.co.in",
+        "phone": "0172-2636751",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Peter's School",
+        "address": "Sector 37-B, Chandigarh 160036",
+        "email": "info@stpeterchd.com",
+        "phone": "0172-2698800",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Saupin's School",
+        "address": "Plot No. 14, Sector 32-A, Chandigarh - 160030",
+        "email": "saupinsc@gmail.com",
+        "phone": "+91 9815986323",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Karnataka": {
+    "Bangalore Urban": [
+      {
+        "name": "National Public School, Indiranagar",
+        "address": "12 A Main, HAL II Stage, Bangalore - 560 008",
+        "email": "info@npsinr.com",
+        "phone": "+91-80-25280611",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Delhi Public School, Bangalore South",
+        "address": "11th KM, Bikaspura Main Road, Kanakapura Road, Konanakunte, Bangalore 560062",
+        "email": "south@dpsbangalore.net",
+        "phone": "+91 80-2666-8582",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Paul's English School",
+        "address": "No. 121, 3rd Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru 560078",
+        "email": "admission-spes@presidency.edu.in",
+        "phone": "+91-9739221699",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Bishop Cotton Boys' School",
+        "address": "15, Residency Road, Bangalore-560025",
+        "email": "bcbs@bishopcottonboysschool.edu.in",
+        "phone": "+91-80-40527888",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Christ Academy ICSE School",
+        "address": "Sakalawara Post, Begur-Koppa Road, Bengaluru - 560083",
+        "email": "office@christacademy.in",
+        "phone": "+91 9448204411",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Greenwood High International School",
+        "address": "No.8-14, Chikkawadayarapura, Near Heggondahalli, Gunjur Post, Varthur Sarjapur Road, Bangalore-560087",
+        "email": "admissions@greenwoodhigh.edu.in",
+        "phone": "+91 80 22010500",
+        "streams": ["Science", "Commerce", "Humanities", "IB Diploma"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Kendriya Vidyalaya IISc",
+        "address": "Indian Institute of Science CV Raman Road, Subedarpalya, Bengaluru, Karnataka 560012",
+        "email": "principal.kviisc@gmail.com",
+        "phone": "080-23371316",
+        "streams": ["Science"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Delhi": {
+    "New Delhi": [
+       {
+        "name": "Delhi Public School, R.K. Puram",
+        "address": "Sector-XII, R.K. Puram, New Delhi 110022",
+        "email": "principal@dpsrkp.net",
+        "phone": "91-11-49115500",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  }
+}

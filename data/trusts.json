@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Khan Academy India",
+    "type": "EdTech / Non-Profit",
+    "email": "indialocalisation@khanacademy.org",
+    "address": "A-22, 2nd Floor, Green Park Main Aurobindo Marg, New Delhi 110016"
+  },
+  {
+    "name": "Azim Premji Foundation",
+    "type": "Trust / Non-Profit",
+    "email": "philanthropy.registrations@azimpremjifoundation.org",
+    "address": "Survey no 54/4, Pattan Cross, Savalagi (School location), Head Office: Bangalore"
+  },
+  {
+    "name": "Magic EdTech",
+    "type": "EdTech",
+    "email": "mail@magicedtech.com",
+    "address": "Noida / New York"
+  },
+  {
+    "name": "Next Education India",
+    "type": "EdTech",
+    "email": "support@nexteducation.in",
+    "address": "Sri Nilaya Cyber Spazio, Road No. 2, Banjara Hills, Hyderabad"
+  },
+  {
+    "name": "PhysicsWallah",
+    "type": "EdTech",
+    "email": "support@pw.live",
+    "address": "A-10, Sector 4, Noida"
+  },
+  {
+    "name": "Unacademy",
+    "type": "EdTech",
+    "email": "help@unacademy.com",
+    "address": "Park Plaza, 353, 12th A Cross Rd, Indiranagar, Bengaluru"
+  },
+  {
+    "name": "Vedantu",
+    "type": "EdTech",
+    "email": "vcare@vedantu.com",
+    "address": "No. 1081, 3rd Floor, Vanganahalli, 1st Sector, HSR Layout, Bengaluru"
+  },
+  {
+    "name": "WhiteHat Jr",
+    "type": "EdTech",
+    "email": "support@whitehatjr.com",
+    "address": "Mumbai, India"
+  },
+  {
+    "name": "Sarthak Educational Trust",
+    "type": "Trust",
+    "email": "info@sarthakindia.org",
+    "address": "Building No. 1, Mohammadpur, Near Bhikaji Cama Place, New Delhi"
+  },
+  {
+    "name": "EdTech Society",
+    "type": "Non-Profit / Society",
+    "email": "info@etsociety.org",
+    "address": "IIT Bombay, Powai, Mumbai"
+  }
+]
