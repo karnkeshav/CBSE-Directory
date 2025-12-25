@@ -1,4 +1,64 @@
 {
+  "Andaman and Nicobar Islands": {
+    "South Andaman": [
+      {
+        "name": "Nirmala Senior Secondary School",
+        "address": "Prem Nagar, Port Blair - 744 102",
+        "email": "nirmalaschool.portblair@gmail.com",
+        "phone": "03192-232915",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Andhra Pradesh": {
+    "Anantapur": [
+      {
+        "name": "Sri Sathya Sai Higher Secondary School",
+        "address": "P.O. Prasanthinilayam, Dt. Anantapur, A.P. 515134",
+        "email": "ssshss@gmail.com",
+        "phone": "08555-289289",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Arunachal Pradesh": {
+    "Tawang": [
+      {
+        "name": "Eklavya Model Residential School",
+        "address": "Lumla, Tawang, Arunachal Pradesh",
+        "email": "emrslumla@gmail.com",
+        "phone": "N/A",
+        "streams": ["Science", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Assam": {
+    "Kamrup Metropolitan": [
+      {
+        "name": "Narayana School",
+        "address": "Sonaighuli, Dakhingaon Road, Guwahati - 781040",
+        "email": "nassam@narayanagroup.com",
+        "phone": "8695640625",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Bihar": {
+    "Patna": [
+      {
+        "name": "St. Michael's High School",
+        "address": "Digha Ghat, Patna - 800 011",
+        "email": "michaelpatna@gmail.com",
+        "phone": "0612-2567150",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
   "Chandigarh": {
     "Chandigarh": [
       {
@@ -83,6 +143,114 @@
       }
     ]
   },
+  "Chhattisgarh": {
+    "Raipur": [
+      {
+        "name": "Krishna Public School",
+        "address": "Kamal Vihar, Devpuri-Dunda Road, Raipur",
+        "email": "kps.raipur@gmail.com",
+        "phone": "0771-4289201",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "Silvassa": [
+      {
+        "name": "Advaita Gurukul",
+        "address": "Haldun Pada, Silli, Silvassa-396230",
+        "email": "info@advaitagurukul.org",
+        "phone": "+91 96015 52211",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Delhi": {
+    "New Delhi": [
+      {
+        "name": "Delhi Public School, R.K. Puram",
+        "address": "Sector-XII, R.K. Puram, New Delhi 110022",
+        "email": "principal@dpsrkp.net",
+        "phone": "91-11-49115500",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Goa": {
+    "North Goa": [
+      {
+        "name": "Podar International School",
+        "address": "Kadamba Plateau, Panelim, Old Goa",
+        "email": "admissions@podar.org",
+        "phone": "7428092055",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Gujarat": {
+    "Ahmedabad": [
+      {
+        "name": "Delhi Public School, Bopal",
+        "address": "Bopal Square, Near Bopal Railway Crossing, Ahmedabad - 380 058",
+        "email": "dpsbopal@kalorex.org",
+        "phone": "079-68181300",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Haryana": {
+    "Gurugram": [
+      {
+        "name": "Kunskapsskolan",
+        "address": "1122, Block A, DLF Phase-I, Gurgaon",
+        "email": "admissions@kunskapsskolan.edu.in",
+        "phone": "+91-9591748899",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Himachal Pradesh": {
+    "Shimla": [
+      {
+        "name": "St. Edward's School",
+        "address": "Milsington, Shimla - 171001",
+        "email": "contact@stedwardsshimla.org",
+        "phone": "0177-2624542",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Jammu and Kashmir": {
+    "Jammu": [
+      {
+        "name": "Delhi Public School, Jammu",
+        "address": "Residency Road, Jammu - 180001",
+        "email": "jammu.dps@gmail.com",
+        "phone": "0191-2570480",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Jharkhand": {
+    "Deoghar": [
+      {
+        "name": "Ramakrishna Mission Vidyapith",
+        "address": "Ramakrishna Nagar, P.O. Vidyapith, Deoghar",
+        "email": "rkmvidyapith@gmail.com",
+        "phone": "8797066678",
+        "streams": ["Science"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
   "Karnataka": {
     "Bangalore Urban": [
       {
@@ -143,13 +311,241 @@
       }
     ]
   },
-  "Delhi": {
-    "New Delhi": [
-       {
-        "name": "Delhi Public School, R.K. Puram",
-        "address": "Sector-XII, R.K. Puram, New Delhi 110022",
-        "email": "principal@dpsrkp.net",
-        "phone": "91-11-49115500",
+  "Kerala": {
+    "Ernakulam": [
+      {
+        "name": "Global Public School",
+        "address": "Thiruvaniyoor P.O., Ernakulam - 682308",
+        "email": "mail@globalpublicschool.org",
+        "phone": "0484-2713743",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Ladakh": {
+    "Leh": [
+      {
+        "name": "Druk Padma Karpo School",
+        "address": "Shey, Leh - 194201",
+        "email": "principal.dwls@gmail.com",
+        "phone": "8492813710",
+        "streams": ["Science", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Lakshadweep": {
+    "Kavaratti": [
+      {
+        "name": "Kendriya Vidyalaya Kavaratti",
+        "address": "Kavaratti - 682555",
+        "email": "kvkavaratti@gmail.com",
+        "phone": "04896-263580",
+        "streams": ["Science"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Madhya Pradesh": {
+    "Bhopal": [
+      {
+        "name": "Podar International School",
+        "address": "Kakda Farms, K-Sector, Opposite Eco Green City, Ayodhya Bypass Road, Bhopal",
+        "email": "admissions@podar.org",
+        "phone": "8527432080",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Maharashtra": {
+    "Mumbai": [
+      {
+        "name": "R.N. Podar School",
+        "address": "Jain Derasar Marg, Santacruz West, Mumbai - 400054",
+        "email": "cbse@podar.org",
+        "phone": "022-6711 1111",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Manipur": {
+    "Imphal East": [
+      {
+        "name": "Central Academy",
+        "address": "Mantripukhri, Imphal East, Manipur",
+        "email": "35292@cbseshiksha.in",
+        "phone": "9856133724",
+        "streams": ["Science", "Arts"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Meghalaya": {
+    "East Khasi Hills": [
+      {
+        "name": "B K Bajoria School",
+        "address": "Boyce Road, Shillong - 793001",
+        "email": "bkamakhyalal@yahoo.co.in",
+        "phone": "0364-2227919",
+        "streams": ["Science", "Commerce", "Arts"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Mizoram": {
+    "Aizawl": [
+      {
+        "name": "Mizoram Institute of Comprehensive Education",
+        "address": "RM Complex, Tuikual North, Aizawl - 796001",
+        "email": "miceschool1988@gmail.com",
+        "phone": "N/A",
+        "streams": ["Science", "Commerce", "Arts"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Nagaland": {
+    "Dimapur": [
+      {
+        "name": "Delhi Public School",
+        "address": "2 Mile, Darogapathar, Dimapur - 797115",
+        "email": "Principal@dpsdimapur.in",
+        "phone": "03862 235930",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Odisha": {
+    "Bhubaneswar": [
+      {
+        "name": "SAI International School",
+        "address": "Plot - 5A, Chandrasekharpur, Infocity Road, Bhubaneswar - 751024",
+        "email": "admissions@saiinternational.edu.in",
+        "phone": "0674-7100200",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Puducherry": {
+    "Puducherry": [
+      {
+        "name": "Vaasavi International School",
+        "address": "Muthialpet, Puducherry - 605 003",
+        "email": "vaasavicbse@gmail.com",
+        "phone": "0413-2343344",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Punjab": {
+    "Bathinda": [
+      {
+        "name": "Kendriya Vidyalaya No. 5",
+        "address": "Bathinda Cantt - 151004",
+        "email": "kv5bti@yahoo.co.in",
+        "phone": "0164-2291142",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Rajasthan": {
+    "Ajmer": [
+      {
+        "name": "Mayo College",
+        "address": "Srinagar Road, Ajmer - 305007",
+        "email": "principal@mayocollege.com",
+        "phone": "+91-145-2661154",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Sikkim": {
+    "East Sikkim": [
+      {
+        "name": "East Point Senior Secondary School",
+        "address": "Golitar, P.O Singtam, East Sikkim - 737134",
+        "email": "eastpoint1@gmail.com",
+        "phone": "+91-7047960840",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Tamil Nadu": {
+    "Chennai": [
+      {
+        "name": "Chettinad Vidyashram",
+        "address": "Raja Annamalai Puram, Chennai - 600028",
+        "email": "c.vidyashram@gmail.com",
+        "phone": "044 2493 3722",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Telangana": {
+    "Hyderabad": [
+      {
+        "name": "Delhi Public School",
+        "address": "Survey No 74, Khajaguda Village, Chitrapuri Colony Post, Hyderabad - 500104",
+        "email": "info@dpshyderabad.com",
+        "phone": "040 2980 6765",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Tripura": {
+    "Agartala": [
+      {
+        "name": "Bhavan's Tripura Vidyamandir",
+        "address": "P.O. Narsingarh (Bimangarh), Agartala - 799 015",
+        "email": "bvbtrbs01@rediffmail.com",
+        "phone": "0381-2342404",
+        "streams": ["Science", "Commerce", "Arts"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Uttar Pradesh": {
+    "Noida": [
+      {
+        "name": "Delhi Public School",
+        "address": "Sector-30, Noida (U.P.) 201303",
+        "email": "dpsnoida30@gmail.com",
+        "phone": "0120-4509100",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "Uttarakhand": {
+    "Dehradun": [
+      {
+        "name": "Apollo International School",
+        "address": "Sahastradhara Road, Dehradun - 248001",
+        "email": "apollointernationalschool@gmail.com",
+        "phone": "+91 135-2788451",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      }
+    ]
+  },
+  "West Bengal": {
+    "Kolkata": [
+      {
+        "name": "Delhi Public School, Ruby Park",
+        "address": "254 Shanti Pally, RB Connector, Kolkata - 700107",
+        "email": "info@dpskolkata.com",
+        "phone": "+91 98317 22266",
         "streams": ["Science", "Commerce", "Humanities"],
         "level": "Senior Secondary"
       }
