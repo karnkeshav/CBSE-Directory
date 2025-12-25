@@ -978,6 +978,78 @@
         "phone": "9866461204",
         "streams": ["Science", "Commerce", "Humanities", "IB Diploma"],
         "level": "Senior Secondary"
+      },
+      {
+        "name": "DDMS P. Obul Reddy Public School",
+        "address": "Road No. 25, Jubilee Hills, Hyderabad - 500033",
+        "email": "info@amsporps.org",
+        "phone": "040-23548912",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Bharatiya Vidya Bhavan's Public School",
+        "address": "Road No. 71, Jubilee Hills, Hyderabad - 500096",
+        "email": "bvbpsjh@rediffmail.com",
+        "phone": "040-23544934",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Gitanjali Senior School",
+        "address": "Mayur Marg, Begumpet, Hyderabad - 500016",
+        "email": "info@gitanjalischools.com",
+        "phone": "040-27768421",
+        "streams": ["Science", "Commerce", "Humanities"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Andrews School",
+        "address": "Old Bowenpally, Secunderabad - 500011",
+        "email": "contact.sas-bp@standrewsindia.com",
+        "phone": "9550838000",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Peter's High School",
+        "address": "Plot 15-16, Saibaba Colony, Bowenpally, Secunderabad - 500011",
+        "email": "sphs.hyd@gmail.com",
+        "phone": "8555073254",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "St. Martin's High School",
+        "address": "Near BHEL R&D, Balanagar, Hyderabad - 500037",
+        "email": "info@stmartinshighschool.in",
+        "phone": "040-23774208",
+        "streams": ["Science"],
+        "level": "Secondary"
+      },
+      {
+        "name": "Sentia The Global School",
+        "address": "Beside B.K. Enclave, Road No.2, Near Miyapur Bus Depot, Hyderabad - 500049",
+        "email": "admissions@sentia.in",
+        "phone": "9985288821",
+        "streams": ["Science", "Commerce"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Sancta Maria International School",
+        "address": "Survey No. 106/107, Serilingampally, Hyderabad - 500019",
+        "email": "enquiry@sanctamaria.in",
+        "phone": "040-23011222",
+        "streams": ["Science", "Commerce", "Humanities", "IB Diploma"],
+        "level": "Senior Secondary"
+      },
+      {
+        "name": "Akshara Vaagdevi International School",
+        "address": "Bolton Road, Opp Tivoli Gardens, Secunderabad - 500003",
+        "email": "admissions@avinternationalschool.org",
+        "phone": "9573469759",
+        "streams": ["Science", "Commerce"],
+        "level": "Secondary"
       }
     ],
     "Medchal-Malkajgiri": [
