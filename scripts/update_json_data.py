@@ -1,18 +1,10 @@
 import json
 import os
-import openpyxl
-from openpyxl import Workbook
 
-def populate_excels():
-    base_path = 'data'
+def update_json_database():
+    json_path = 'data/schools.json'
 
-    # ---------------------------------------------------------
-    # Hardcoded Data for Targeted States
-    # ---------------------------------------------------------
-
-    # Structure: State -> District -> List of School Dicts
-    # Each school dict: 'name', 'email', 'address', 'phone'
-
+    # Same data as populate_excels.py
     schools_data = {
         "Telangana": {
             "Hyderabad": [
@@ -241,45 +233,42 @@ def populate_excels():
         }
     }
 
-    # Helper to clean directory names
-    def clean_name(n):
-        return n.strip().replace('/', '_')
+    # Load existing JSON
+    if os.path.exists(json_path):
+        with open(json_path, 'r') as f:
+            data = json.load(f)
+    else:
+        data = {}
 
-    total_schools = 0
-
-    # Iterate and create Excel files
+    # Merge data
     for state, districts in schools_data.items():
-        state_dir = os.path.join(base_path, clean_name(state))
+        if state not in data:
+            data[state] = {}
 
         for district, schools in districts.items():
-            district_dir = os.path.join(state_dir, clean_name(district))
+            if district not in data[state]:
+                data[state][district] = []
 
-            # Create district folder if it doesn't exist (it should, but safety first)
-            os.makedirs(district_dir, exist_ok=True)
-
-            excel_path = os.path.join(district_dir, f"{clean_name(district)}_Schools.xlsx")
-
-            wb = Workbook()
-            ws = wb.active
-            ws.title = "Schools"
-
-            # Headers
-            headers = ["School Name", "Email ID", "Address", "Contact Number"]
-            ws.append(headers)
+            existing_names = {s['name'] for s in data[state][district]}
 
             for school in schools:
-                ws.append([
-                    school.get('name', ''),
-                    school.get('email', ''),
-                    school.get('address', ''),
-                    school.get('phone', '')
-                ])
-                total_schools += 1
+                if school['name'] not in existing_names:
+                    # Default values for fields not in the simple list
+                    new_school = {
+                        'name': school['name'],
+                        'address': school['address'],
+                        'email': school['email'],
+                        'phone': school['phone'],
+                        'streams': ["Science", "Commerce", "Humanities"], # Default for now
+                        'level': "Senior Secondary" # Default
+                    }
+                    data[state][district].append(new_school)
 
-            wb.save(excel_path)
-            print(f"Generated: {excel_path} with {len(schools)} schools.")
+    # Write back to file
+    with open(json_path, 'w') as f:
+        json.dump(data, f, indent=2)
 
-    print(f"Total verified schools added: {total_schools}")
+    print(f"Updated {json_path} with new school data.")
 
 if __name__ == "__main__":
-    populate_excels()
+    update_json_database()
