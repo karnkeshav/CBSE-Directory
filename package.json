@@ -1,0 +1,29 @@
+{
+  "name": "cbse-school-scraper",
+  "version": "1.0.0",
+  "description": "Scraper pipeline for CBSE-affiliated schools",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "scrape": "node main.js scrape",
+    "enrich": "node main.js enrich",
+    "export": "node main.js export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "playwright",
+    "cbse",
+    "schools"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3",
+    "playwright": "^1.40.0",
+    "xlsx": "^0.18.5"
+  }
+}
